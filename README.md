@@ -1,12 +1,15 @@
-# React + Vite
+# CodeMentor.AI 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered educational platform that uses Kiro to generate personalized lessons, quizzes, and feedback in real time.
 
-Currently, two official plugins are available:
+## 🔧 Stack
+- Django REST Framework (Backend)
+- React + Tailwind (Frontend)
+- Kiro Spec-to-Code + Agent Hooks (AI Magic)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Chat-based tutoring with Kiro agent
+- Code generation from specs
+- Interactive quiz creation
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 [Live Demo Coming Soon]
